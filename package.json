@@ -1,0 +1,19 @@
+{
+  "name": "to-docli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "node.js"
+  ],
+  "author": "Saad Hussain",
+  "license": "ISC",
+  "description": "Tasks CLI",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
